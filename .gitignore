@@ -1,0 +1,8 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore build output
+/build/
+/dist/
+node_modules/
